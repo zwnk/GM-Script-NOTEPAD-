@@ -1,5 +1,8 @@
-# GM-Script-NOTEPADpp
+# GM-Script-NOTEPAD++
+
 ## Notepad++ syntax highlighting
+
+![](https://yeinlookatdatunicorn.net/user/pages/blog/test/notepadpp.png)
 
 ## How to Use?
 
@@ -16,3 +19,6 @@ You need to modify a file `userDefineLang.xml` in your Notepad++ program folder.
        - Copy the contents of the Markdown definition file between the `<UserLang...></UserLang>` tags into the active `userDefineLang.xml`, at the end right before `</NotepadPlus>`.
        - Save `userDefineLang.xml`.
 4. Restart Notepad++.
+
+
+If you have questions feel free to ask me here Global Mapper Forum or send me an email at blog-at-yeinlookatdatunicorn.net
